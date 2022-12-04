@@ -13,6 +13,6 @@ Técnico em desenvolvimento de sistemas<br>Email: cristianosilvarodrigues@outloo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosilvar&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cristianosilvar&icon=0&color=3)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=cristianosilvar&icon=0&color=3)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
