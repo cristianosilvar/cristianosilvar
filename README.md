@@ -1,5 +1,5 @@
 - 🔭 Apaixonado por tecnologia
-- 🌱 Técnico em Desenvolvimento de Sistemas
+- ☄️ Técnico em Desenvolvimento de Sistemas
 
 <div>
     <h6>LinkedIn</h6>
